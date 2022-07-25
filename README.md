@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://back-end-tg.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Akshaytechis/tourist-guide.git
+git clone https://github.com/BertrandPrince/Ethiopian-Visitors
 ```
 
 2. Backend setting
